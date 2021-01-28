@@ -4,7 +4,7 @@
     "private": true,
     "main": "src/electron/index_electron.js",
     "dependencies": {
-        "electron": "^7.1.2",
+        "electron": "^9.4.0",
         "electron-rebuild": "^1.8.8",
         "find-free-port": "^2.0.0",
         "frameless-titlebar": "^1.0.8",
